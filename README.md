@@ -1,7 +1,7 @@
 # free-chatgpt-js
 
-These scripts show example of how to build free AI apps using NAGA AI
+These scripts show examples of how to build free AI apps using NAGA AI.
 
-It was made for a youtube tutorial.
+They were made for a YouTube tutorial.
 
-My channel: https://www.youtube.com/channel/UCeTF021zKEfe_2gG_36rYKQ
+My channel: <a href="https://www.youtube.com/channel/UCeTF021zKEfe_2gG_36rYKQ" target="_blank">Watch on YouTube</a>
